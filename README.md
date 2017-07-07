@@ -34,7 +34,7 @@ You can find the documentation at [https://github.com/lostisland/faraday](https:
 
 #### Starter Code
 
-1. CLI - [CLI Starter Kit](repo)
+1. CLI - [CLI Starter Kit](https://github.com/learn-co-curriculum/weather-app-cli-starter)
 2. Sinatra App - [Corneal Gem](https://github.com/thebrianemory/corneal)
 3. Rails App - [Rails Gem](https://github.com/rails/rails)
 4. React App - [Create React App](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwi-jcup2_fUAhXE5SYKHduKCbQQFggmMAA&url=https%3A%2F%2Fgithub.com%2Ffacebookincubator%2Fcreate-react-app&usg=AFQjCNFClfRovodlePaq7LjL5UL4NYx-xA)
